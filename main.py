@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from streamlit_option_menu import option_menu
